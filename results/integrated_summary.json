@@ -1,0 +1,77 @@
+{
+  "ood_auroc": {
+    "id=aortaseg24_test_vs_ood=avt": {
+      "auroc": 0.8522,
+      "n_id": 40,
+      "n_ood": 56
+    },
+    "id=aortaseg24_test_vs_ood=amos": {
+      "auroc": 0.9898,
+      "n_id": 40,
+      "n_ood": 300
+    },
+    "id=aortaseg24_test_vs_ood=totalseg": {
+      "auroc": 0.9953,
+      "n_id": 40,
+      "n_ood": 566
+    }
+  },
+  "per_dataset": {
+    "aortaseg24_test": {
+      "n": 40,
+      "dice_mean": 0.7516,
+      "dice_std": 0.0354,
+      "md_median": 27.0,
+      "md_max": 64.89,
+      "spearman_md_dice": -0.0583,
+      "spearman_p": 0.7206,
+      "unc_auroc_dice_lt_0.7": 0.5143,
+      "centerline_failures": 0,
+      "centerline_failure_pct": 0.0,
+      "mld_mae_mm": 1.179,
+      "mld_bias_mm": 1.179,
+      "mld_sd_mm": 0.548,
+      "mld_n_paired": 40
+    },
+    "avt": {
+      "n": 56,
+      "dice_mean": 0.7269,
+      "dice_std": 0.182,
+      "md_median": 54.94,
+      "md_max": 2736.37,
+      "spearman_md_dice": -0.1869,
+      "spearman_p": 0.1679,
+      "unc_auroc_dice_lt_0.5": 0.8267,
+      "unc_auroc_dice_lt_0.7": 0.8251,
+      "centerline_failures": 4,
+      "centerline_failure_pct": 7.1,
+      "md_vs_failure_auroc": 0.8702,
+      "md_vs_failure_spearman": 0.3303,
+      "md_vs_failure_p": 0.0129,
+      "mld_mae_mm": 3.161,
+      "mld_bias_mm": 2.851,
+      "mld_sd_mm": 2.415,
+      "mld_n_paired": 56
+    },
+    "amos": {
+      "n": 300,
+      "dice_mean": 0.6291,
+      "dice_std": 0.2317,
+      "md_median": 89.77,
+      "md_max": 365.77,
+      "spearman_md_dice": -0.0867,
+      "spearman_p": 0.1339,
+      "unc_auroc_dice_lt_0.5": 0.5511,
+      "unc_auroc_dice_lt_0.7": 0.5016,
+      "centerline_failures": 72,
+      "centerline_failure_pct": 24.0,
+      "md_vs_failure_auroc": 0.5471,
+      "md_vs_failure_spearman": 0.0698,
+      "md_vs_failure_p": 0.2283,
+      "mld_mae_mm": 3.825,
+      "mld_bias_mm": 0.112,
+      "mld_sd_mm": 5.142,
+      "mld_n_paired": 289
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "Zone 0": {
+    "class_idx": 1,
+    "n": 40,
+    "mean": 0.89586,
+    "std": 0.05519,
+    "median": 0.91139
+  },
+  "Innominate": {
+    "class_idx": 2,
+    "n": 40,
+    "mean": 0.77362,
+    "std": 0.13684,
+    "median": 0.82922
+  },
+  "Zone 1": {
+    "class_idx": 3,
+    "n": 40,
+    "mean": 0.62123,
+    "std": 0.18649,
+    "median": 0.67537
+  },
+  "Left Common Carotid": {
+    "class_idx": 4,
+    "n": 40,
+    "mean": 0.82135,
+    "std": 0.06195,
+    "median": 0.83576
+  },
+  "Zone 2": {
+    "class_idx": 5,
+    "n": 40,
+    "mean": 0.67504,
+    "std": 0.14004,
+    "median": 0.71245
+  },
+  "Left Subclavian": {
+    "class_idx": 6,
+    "n": 40,
+    "mean": 0.83278,
+    "std": 0.07009,
+    "median": 0.85767
+  },
+  "Zone 3": {
+    "class_idx": 7,
+    "n": 40,
+    "mean": 0.6793,
+    "std": 0.1675,
+    "median": 0.724
+  },
+  "Zone 4": {
+    "class_idx": 8,
+    "n": 40,
+    "mean": 0.79008,
+    "std": 0.08894,
+    "median": 0.78858
+  },
+  "Zone 5": {
+    "class_idx": 9,
+    "n": 40,
+    "mean": 0.91084,
+    "std": 0.03029,
+    "median": 0.91903
+  },
+  "Zone 6": {
+    "class_idx": 10,
+    "n": 40,
+    "mean": 0.70556,
+    "std": 0.13672,
+    "median": 0.70787
+  },
+  "Celiac Artery": {
+    "class_idx": 11,
+    "n": 40,
+    "mean": 0.66115,
+    "std": 0.16395,
+    "median": 0.71591
+  },
+  "Zone 7": {
+    "class_idx": 12,
+    "n": 40,
+    "mean": 0.69366,
+    "std": 0.13564,
+    "median": 0.71589
+  },
+  "SMA": {
+    "class_idx": 13,
+    "n": 40,
+    "mean": 0.73813,
+    "std": 0.11272,
+    "median": 0.74763
+  },
+  "Zone 8": {
+    "class_idx": 14,
+    "n": 40,
+    "mean": 0.70709,
+    "std": 0.12863,
+    "median": 0.73045
+  },
+  "Right Renal Artery": {
+    "class_idx": 15,
+    "n": 40,
+    "mean": 0.72397,
+    "std": 0.13773,
+    "median": 0.76363
+  },
+  "Left Renal Artery": {
+    "class_idx": 16,
+    "n": 40,
+    "mean": 0.68618,
+    "std": 0.16146,
+    "median": 0.73109
+  },
+  "Zone 9": {
+    "class_idx": 17,
+    "n": 40,
+    "mean": 0.91855,
+    "std": 0.03949,
+    "median": 0.93013
+  },
+  "Zone 10 R": {
+    "class_idx": 18,
+    "n": 40,
+    "mean": 0.85523,
+    "std": 0.08727,
+    "median": 0.87349
+  },
+  "Zone 10 L": {
+    "class_idx": 19,
+    "n": 40,
+    "mean": 0.85209,
+    "std": 0.08618,
+    "median": 0.87293
+  },
+  "Right Internal Iliac": {
+    "class_idx": 20,
+    "n": 40,
+    "mean": 0.77684,
+    "std": 0.09481,
+    "median": 0.80742
+  },
+  "Left Internal Iliac": {
+    "class_idx": 21,
+    "n": 40,
+    "mean": 0.71753,
+    "std": 0.15793,
+    "median": 0.74645
+  },
+  "Zone 11 R": {
+    "class_idx": 22,
+    "n": 40,
+    "mean": 0.75019,
+    "std": 0.10388,
+    "median": 0.75297
+  },
+  "Zone 11 L": {
+    "class_idx": 23,
+    "n": 40,
+    "mean": 0.72567,
+    "std": 0.12454,
+    "median": 0.75159
+  },
+  "_overall_mean_dice": 0.76139
+}

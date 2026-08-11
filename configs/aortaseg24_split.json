@@ -1,0 +1,30 @@
+{
+  "note": "AortaSeg24 split based on official challenge design and subject numbering convention. No public case-ID mapping was released. Split: subject001-050 = train, subject051-060 = val, subject061-101 (excl. subject084) = test. subject084 is absent from the download; subject101 fills its slot, giving 40 test cases. Awaiting organizer confirmation.",
+  "train": [
+    "subject001", "subject002", "subject003", "subject004", "subject005",
+    "subject006", "subject007", "subject008", "subject009", "subject010",
+    "subject011", "subject012", "subject013", "subject014", "subject015",
+    "subject016", "subject017", "subject018", "subject019", "subject020",
+    "subject021", "subject022", "subject023", "subject024", "subject025",
+    "subject026", "subject027", "subject028", "subject029", "subject030",
+    "subject031", "subject032", "subject033", "subject034", "subject035",
+    "subject036", "subject037", "subject038", "subject039", "subject040",
+    "subject041", "subject042", "subject043", "subject044", "subject045",
+    "subject046", "subject047", "subject048", "subject049", "subject050"
+  ],
+  "val": [
+    "subject051", "subject052", "subject053", "subject054", "subject055",
+    "subject056", "subject057", "subject058", "subject059", "subject060"
+  ],
+  "test": [
+    "subject061", "subject062", "subject063", "subject064", "subject065",
+    "subject066", "subject067", "subject068", "subject069", "subject070",
+    "subject071", "subject072", "subject073", "subject074", "subject075",
+    "subject076", "subject077", "subject078", "subject079", "subject080",
+    "subject081", "subject082", "subject083", "subject085",
+    "subject086", "subject087", "subject088", "subject089", "subject090",
+    "subject091", "subject092", "subject093", "subject094", "subject095",
+    "subject096", "subject097", "subject098", "subject099", "subject100",
+    "subject101"
+  ]
+}

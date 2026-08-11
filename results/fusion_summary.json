@@ -1,0 +1,353 @@
+{
+  "thresholds": {
+    "envelope": {
+      "tau_md": 64.8892,
+      "tau_pw": 0.815552
+    },
+    "p95_p05": {
+      "tau_md": 44.79778999999999,
+      "tau_pw": 0.8610531
+    },
+    "path_mm": 100.0
+  },
+  "envelope": {
+    "ID": {
+      "MD": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      },
+      "pairwise": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      },
+      "centerline": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      },
+      "OR-rule": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      },
+      "AND-rule": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      },
+      "OR-cheap(MD|path)": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      },
+      "AND-cheap(MD&path)": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      }
+    },
+    "AVT": {
+      "MD": {
+        "recall_cata": 0.6666666666666666,
+        "fpr_good": 0.30612244897959184,
+        "n_flagged": 20
+      },
+      "pairwise": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.24489795918367346,
+        "n_flagged": 19
+      },
+      "centerline": {
+        "recall_cata": 0.6666666666666666,
+        "fpr_good": 0.0,
+        "n_flagged": 4
+      },
+      "OR-rule": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.4897959183673469,
+        "n_flagged": 31
+      },
+      "AND-rule": {
+        "recall_cata": 0.5,
+        "fpr_good": 0.0,
+        "n_flagged": 3
+      },
+      "OR-cheap(MD|path)": {
+        "recall_cata": 0.8333333333333334,
+        "fpr_good": 0.30612244897959184,
+        "n_flagged": 21
+      },
+      "AND-cheap(MD&path)": {
+        "recall_cata": 0.5,
+        "fpr_good": 0.0,
+        "n_flagged": 3
+      }
+    },
+    "AMOS": {
+      "MD": {
+        "recall_cata": 0.9571428571428572,
+        "fpr_good": 0.74,
+        "n_flagged": 248
+      },
+      "pairwise": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.44666666666666666,
+        "n_flagged": 214
+      },
+      "centerline": {
+        "recall_cata": 0.8857142857142857,
+        "fpr_good": 0.02,
+        "n_flagged": 72
+      },
+      "OR-rule": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.8333333333333334,
+        "n_flagged": 274
+      },
+      "AND-rule": {
+        "recall_cata": 0.8714285714285714,
+        "fpr_good": 0.02,
+        "n_flagged": 70
+      },
+      "OR-cheap(MD|path)": {
+        "recall_cata": 0.9714285714285714,
+        "fpr_good": 0.74,
+        "n_flagged": 250
+      },
+      "AND-cheap(MD&path)": {
+        "recall_cata": 0.8714285714285714,
+        "fpr_good": 0.02,
+        "n_flagged": 70
+      }
+    }
+  },
+  "p95_p05": {
+    "ID": {
+      "MD": {
+        "recall_cata": null,
+        "fpr_good": 0.05714285714285714,
+        "n_flagged": 2
+      },
+      "pairwise": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 2
+      },
+      "centerline": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      },
+      "OR-rule": {
+        "recall_cata": null,
+        "fpr_good": 0.05714285714285714,
+        "n_flagged": 4
+      },
+      "AND-rule": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      },
+      "OR-cheap(MD|path)": {
+        "recall_cata": null,
+        "fpr_good": 0.05714285714285714,
+        "n_flagged": 2
+      },
+      "AND-cheap(MD&path)": {
+        "recall_cata": null,
+        "fpr_good": 0.0,
+        "n_flagged": 0
+      }
+    },
+    "AVT": {
+      "MD": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.6122448979591837,
+        "n_flagged": 37
+      },
+      "pairwise": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.5306122448979592,
+        "n_flagged": 33
+      },
+      "centerline": {
+        "recall_cata": 0.6666666666666666,
+        "fpr_good": 0.0,
+        "n_flagged": 4
+      },
+      "OR-rule": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.8163265306122449,
+        "n_flagged": 47
+      },
+      "AND-rule": {
+        "recall_cata": 0.6666666666666666,
+        "fpr_good": 0.0,
+        "n_flagged": 4
+      },
+      "OR-cheap(MD|path)": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.6122448979591837,
+        "n_flagged": 37
+      },
+      "AND-cheap(MD&path)": {
+        "recall_cata": 0.6666666666666666,
+        "fpr_good": 0.0,
+        "n_flagged": 4
+      }
+    },
+    "AMOS": {
+      "MD": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.9533333333333334,
+        "n_flagged": 292
+      },
+      "pairwise": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.6266666666666667,
+        "n_flagged": 243
+      },
+      "centerline": {
+        "recall_cata": 0.8857142857142857,
+        "fpr_good": 0.02,
+        "n_flagged": 72
+      },
+      "OR-rule": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.98,
+        "n_flagged": 297
+      },
+      "AND-rule": {
+        "recall_cata": 0.8857142857142857,
+        "fpr_good": 0.02,
+        "n_flagged": 72
+      },
+      "OR-cheap(MD|path)": {
+        "recall_cata": 1.0,
+        "fpr_good": 0.9533333333333334,
+        "n_flagged": 292
+      },
+      "AND-cheap(MD&path)": {
+        "recall_cata": 0.8857142857142857,
+        "fpr_good": 0.02,
+        "n_flagged": 72
+      }
+    }
+  },
+  "threshold_sensitivity": {
+    "ID": {
+      "50": {
+        "n_flagged": 0,
+        "rate": 0.0,
+        "cases": []
+      },
+      "100": {
+        "n_flagged": 0,
+        "rate": 0.0,
+        "cases": []
+      },
+      "150": {
+        "n_flagged": 0,
+        "rate": 0.0,
+        "cases": []
+      },
+      "200": {
+        "n_flagged": 0,
+        "rate": 0.0,
+        "cases": []
+      },
+      "identical_50_200_vs_100": true
+    },
+    "AVT": {
+      "50": {
+        "n_flagged": 3,
+        "rate": 0.05357142857142857,
+        "cases": [
+          "K7",
+          "R15",
+          "R16"
+        ]
+      },
+      "100": {
+        "n_flagged": 4,
+        "rate": 0.07142857142857142,
+        "cases": [
+          "K19",
+          "K7",
+          "R15",
+          "R16"
+        ]
+      },
+      "150": {
+        "n_flagged": 4,
+        "rate": 0.07142857142857142,
+        "cases": [
+          "K19",
+          "K7",
+          "R15",
+          "R16"
+        ]
+      },
+      "200": {
+        "n_flagged": 5,
+        "rate": 0.08928571428571429,
+        "cases": [
+          "K19",
+          "K7",
+          "R14",
+          "R15",
+          "R16"
+        ]
+      },
+      "identical_50_200_vs_100": false
+    },
+    "AMOS": {
+      "50": {
+        "n_flagged": 25,
+        "rate": 0.08333333333333333,
+        "cases": "25 cases"
+      },
+      "100": {
+        "n_flagged": 72,
+        "rate": 0.24,
+        "cases": "72 cases"
+      },
+      "150": {
+        "n_flagged": 117,
+        "rate": 0.39,
+        "cases": "117 cases"
+      },
+      "200": {
+        "n_flagged": 140,
+        "rate": 0.4666666666666667,
+        "cases": "140 cases"
+      },
+      "identical_50_200_vs_100": false
+    }
+  },
+  "score_fusion_auroc": {
+    "ID": {
+      "MD": null,
+      "pairwise": null,
+      "centerline": null,
+      "fused_all": null,
+      "fused_cheap": null
+    },
+    "AVT": {
+      "MD": 0.8266666666666667,
+      "pairwise": 0.9933333333333333,
+      "centerline": 0.9833333333333333,
+      "fused_all": 0.9933333333333333,
+      "fused_cheap": 0.9566666666666667
+    },
+    "AMOS": {
+      "MD": 0.551055900621118,
+      "pairwise": 0.9425465838509317,
+      "centerline": 0.9791304347826087,
+      "fused_all": 0.9465217391304348,
+      "fused_cheap": 0.7763354037267081
+    }
+  }
+}

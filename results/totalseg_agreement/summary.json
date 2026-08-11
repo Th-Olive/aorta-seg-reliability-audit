@@ -1,0 +1,26 @@
+{
+  "aorta": {
+    "n": 566,
+    "bias_ml": -14.988,
+    "sd_ml": 63.252,
+    "loa_lower": -138.962,
+    "loa_upper": 108.986,
+    "mean_of_means_ml": 194.133
+  },
+  "r_iliac": {
+    "n": 566,
+    "bias_ml": 4.274,
+    "sd_ml": 12.064,
+    "loa_lower": -19.372,
+    "loa_upper": 27.92,
+    "mean_of_means_ml": 16.878
+  },
+  "l_iliac": {
+    "n": 566,
+    "bias_ml": 2.857,
+    "sd_ml": 11.663,
+    "loa_lower": -20.003,
+    "loa_upper": 25.716,
+    "mean_of_means_ml": 16.207
+  }
+}

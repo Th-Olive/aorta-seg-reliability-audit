@@ -1,0 +1,72 @@
+{
+  "mean_uncertainty_fg": {
+    "n": 40,
+    "spearman_rho": -0.154409,
+    "p_value": 0.34144
+  },
+  "p95_uncertainty_fg": {
+    "n": 40,
+    "spearman_rho": 0.016888,
+    "p_value": 0.917625
+  },
+  "p99_uncertainty_fg": {
+    "n": 40,
+    "spearman_rho": -0.189676,
+    "p_value": 0.241094
+  },
+  "top1pct_mean_uncertainty_fg": {
+    "n": 40,
+    "spearman_rho": -0.166417,
+    "p_value": 0.304744
+  },
+  "max_uncertainty_fg": {
+    "n": 40,
+    "spearman_rho": -0.059475,
+    "p_value": 0.71545
+  },
+  "nonzero_fraction_fg": {
+    "n": 40,
+    "spearman_rho": -0.205629,
+    "p_value": 0.203045
+  },
+  "mean_uncertainty_boundary": {
+    "n": 40,
+    "spearman_rho": -0.086304,
+    "p_value": 0.596448
+  },
+  "p95_uncertainty_boundary": {
+    "n": 40,
+    "spearman_rho": null,
+    "p_value": null
+  },
+  "p99_uncertainty_boundary": {
+    "n": 40,
+    "spearman_rho": -0.115947,
+    "p_value": 0.476173
+  },
+  "top1pct_mean_uncertainty_boundary": {
+    "n": 40,
+    "spearman_rho": -0.073358,
+    "p_value": 0.652816
+  },
+  "mean_uncertainty_pred_or_label": {
+    "n": 40,
+    "spearman_rho": -0.154972,
+    "p_value": 0.339662
+  },
+  "p95_uncertainty_pred_or_label": {
+    "n": 40,
+    "spearman_rho": 0.016888,
+    "p_value": 0.917625
+  },
+  "p99_uncertainty_pred_or_label": {
+    "n": 40,
+    "spearman_rho": -0.177663,
+    "p_value": 0.272745
+  },
+  "top1pct_mean_uncertainty_pred_or_label": {
+    "n": 40,
+    "spearman_rho": -0.157223,
+    "p_value": 0.332605
+  }
+}

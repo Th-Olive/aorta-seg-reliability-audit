@@ -1,0 +1,14 @@
+{
+  "n": 300,
+  "pairwise_dice_mean": 0.5055,
+  "pairwise_dice_std": 0.3087,
+  "gt_dice_mean": 0.6291,
+  "spearman_pairwise_vs_gt_dice": {
+    "rho": 0.8763,
+    "p": 0.0
+  },
+  "unc_auroc_gtdice_lt_0.5": 0.9425,
+  "unc_auroc_gtdice_lt_0.7": 0.9444,
+  "unc_auroc_gtdice_lt_0.8": 0.9415,
+  "spearman_md_vs_pairwise": -0.044
+}

@@ -1,0 +1,567 @@
+image_id,study_type,split,age,gender,institute,pathology,pathology_location
+s1366,ct polytrauma,train,50.0,,I,unclear,unclear
+s0245,ct abdomen-pelvis,train,77.0,m,I,no_pathology,no_location
+s0325,ct abdomen-pelvis,train,65.0,f,I,other,abdomen
+s0320,ct angiography abdomen-pelvis-leg,train,80.0,m,I,vascular,abdomen
+s0193,ct abdomen-pelvis,train,63.0,m,C,no_pathology,no_location
+s0329,ct abdomen-pelvis,train,46.0,m,C,no_pathology,no_location
+s0328,ct abdomen-pelvis,train,60.0,m,I,inflammation,abdomen
+s0322,ct thorax-abdomen-pelvis,train,65.0,m,C,tumor,bones
+s0321,ct neck-thorax-abdomen-pelvis,train,60.0,f,C,tumor,head
+s0327,ct angiography neck-thx-abd-pelvis-leg,train,72.0,m,I,no_pathology,no_location
+s0324,ct abdomen-pelvis,val,54.0,f,I,other,abdomen
+s0311,ct abdomen-pelvis,test,55.0,m,C,no_pathology,no_location
+s0319,ct abdomen-pelvis,train,67.0,m,I,no_pathology,no_location
+s0304,ct abdomen-pelvis,train,72.0,m,C,no_pathology,no_location
+s0241,ct thorax-abdomen-pelvis,train,63.0,f,I,no_pathology,no_location
+s0314,ct abdomen-pelvis,train,83.0,m,I,other,abdomen
+s0298,ct abdomen-pelvis,train,66.0,m,C,no_pathology,no_location
+s0300,ct thorax-abdomen-pelvis,train,76.0,m,C,unclear,unclear
+s0308,ct angiography abdomen-pelvis-leg,test,62.0,m,I,bleeding,abdomen
+s0306,ct abdomen-pelvis,train,51.0,m,I,other,abdomen
+s0305,ct angiography abdomen-pelvis-leg,train,69.0,m,I,no_pathology,no_location
+s0301,ct pelvis,train,76.0,m,C,no_pathology,no_location
+s0307,ct neck-thorax-abdomen-pelvis,train,69.0,f,B,unclear,unclear
+s0291,ct neck-thorax-abdomen-pelvis,test,65.0,f,C,tumor,bones
+s0285,ct thorax-abdomen-pelvis,train,72.0,f,I,tumor,thorax
+s0287,ct angiography neck-thx-abd-pelvis-leg,train,80.0,m,I,vascular,unclear
+s0286,ct abdomen-pelvis,train,74.0,m,I,no_pathology,no_location
+s0275,ct abdomen-pelvis,train,46.0,m,I,no_pathology,no_location
+s0175,ct thorax-abdomen-pelvis,train,60.0,m,I,no_pathology,no_location
+s0262,ct abdomen-pelvis,train,31.0,m,I,no_pathology,no_location
+s0260,ct neck-thorax-abdomen-pelvis,train,48.0,f,I,tumor,thorax
+s0258,ct abdomen-pelvis,train,41.0,m,I,no_pathology,no_location
+s0257,ct angiography abdomen-pelvis-leg,train,79.0,f,I,tumor,abdomen
+s0239,ct angiography abdomen-pelvis-leg,train,48.0,m,I,vascular,"thorax,abdomen"
+s0248,ct neck-thorax-abdomen-pelvis,train,71.0,f,C,tumor,"abdomen,pelvis"
+s0235,ct abdomen-pelvis,test,44.0,f,I,vascular,unclear
+s0255,ct abdomen-pelvis,train,57.0,f,I,no_pathology,no_location
+s0250,ct neck-thorax-abdomen-pelvis,train,67.0,m,I,no_pathology,no_location
+s0236,ct abdomen-pelvis,test,78.0,m,C,tumor,abdomen
+s0252,ct abdomen-pelvis,train,40.0,f,I,inflammation,abdomen
+s0249,ct abdomen-pelvis,val,61.0,m,I,tumor,"abdomen,pelvis"
+s0247,ct abdomen-pelvis,train,50.0,f,I,other,abdomen
+s0246,ct abdomen-pelvis,train,50.0,f,I,inflammation,abdomen
+s0244,ct abdomen-pelvis,test,85.0,m,I,tumor,abdomen
+s0243,ct abdomen-pelvis,train,56.0,m,C,tumor,"abdomen,pelvis"
+s0216,ct angiography abdomen-pelvis-leg,val,38.0,f,I,no_pathology,no_location
+s0242,ct abdomen-pelvis,train,19.0,f,I,no_pathology,no_location
+s0238,ct abdomen-pelvis,train,17.0,m,I,inflammation,abdomen
+s0228,ct abdomen-pelvis,train,42.0,m,C,other,abdomen
+s0237,ct abdomen-pelvis,train,45.0,f,I,other,abdomen
+s0227,ct thorax-abdomen-pelvis,train,65.0,f,I,no_pathology,no_location
+s0224,ct polytrauma,train,47.0,m,I,trauma,"head,thorax"
+s0222,ct abdomen-pelvis,train,67.0,m,I,no_pathology,no_location
+s0029,ct thorax-abdomen-pelvis,test,64.0,m,I,other,thorax
+s0218,ct abdomen-pelvis,train,69.0,f,I,no_pathology,no_location
+s0178,ct abdomen-pelvis,train,61.0,m,I,tumor,"abdomen,bones"
+s0042,ct abdomen-pelvis,train,53.0,m,C,no_pathology,no_location
+s0211,ct abdomen-pelvis,train,82.0,m,I,tumor,"abdomen,pelvis"
+s0204,ct abdomen-pelvis,train,36.0,m,C,no_pathology,no_location
+s0174,ct neck-thorax-abdomen-pelvis,train,59.0,f,I,no_pathology,no_location
+s0210,ct angiography abdomen-pelvis-leg,train,51.0,m,I,no_pathology,no_location
+s0188,ct pelvis,train,60.0,f,I,tumor,abdomen
+s0192,ct neck-thorax-abdomen-pelvis,train,30.0,f,C,tumor,"throat,thorax,abdomen,pelvis"
+s0201,ct abdomen-pelvis,train,51.0,f,I,no_pathology,no_location
+s0199,ct thorax-abdomen-pelvis,train,63.0,m,I,inflammation,abdomen
+s0182,ct abdomen-pelvis,train,47.0,m,I,tumor,abdomen
+s0196,ct angiography neck-thx-abd-pelvis-leg,train,73.0,f,I,no_pathology,no_location
+s0190,ct thorax-abdomen-pelvis,train,59.0,f,I,no_pathology,no_location
+s0108,ct neck-thorax-abdomen-pelvis,train,51.0,m,I,no_pathology,no_location
+s0187,ct polytrauma head,train,25.0,m,I,no_pathology,no_location
+s0089,ct neck-thorax-abdomen-pelvis,train,75.0,f,I,no_pathology,no_location
+s0161,ct abdomen-pelvis,train,53.0,m,C,other,abdomen
+s0153,ct abdomen-pelvis,train,38.0,m,C,tumor,abdomen
+s0158,ct abdomen-pelvis,train,50.0,m,C,no_pathology,no_location
+s0171,ct angiography abdomen-pelvis-leg,train,78.0,f,I,vascular,abdomen
+s0163,ct angiography neck-thx-abd-pelvis-leg,train,53.0,f,I,vascular,abdomen
+s0166,ct abdomen-pelvis,train,58.0,m,I,inflammation,thorax
+s0160,ct abdomen-pelvis,train,53.0,f,I,no_pathology,no_location
+s0162,ct thorax-abdomen-pelvis,train,62.0,m,I,tumor,pelvis
+s0151,ct abdomen-pelvis,train,67.0,m,C,no_pathology,no_location
+s0157,ct abdomen-pelvis,train,77.0,f,I,no_pathology,no_location
+s0156,ct abdomen-pelvis,train,61.0,f,I,inflammation,abdomen
+s0141,ct neck-thorax-abdomen-pelvis,train,57.0,f,I,tumor,"throat,thorax,abdomen"
+s0146,ct thorax-abdomen-pelvis,train,80.0,m,I,no_pathology,no_location
+s0145,ct angiography neck-thx-abd-pelvis-leg,train,54.0,m,I,no_pathology,no_location
+s0137,ct abdomen-pelvis,train,67.0,f,I,no_pathology,no_location
+s0143,ct abdomen-pelvis,train,22.0,m,I,no_pathology,no_location
+s0139,ct abdomen-pelvis,train,30.0,f,I,no_pathology,no_location
+s0133,ct abdomen-pelvis,train,69.0,m,I,no_pathology,no_location
+s0123,ct neck-thorax-abdomen-pelvis,val,80.0,m,C,tumor,thorax
+s0120,ct abdomen-pelvis,train,60.0,m,C,no_pathology,no_location
+s0132,ct abdomen-pelvis,train,54.0,m,I,other,abdomen
+s0131,ct abdomen-pelvis,train,38.0,m,I,other,abdomen
+s0124,ct angiography abdomen-pelvis-leg,train,70.0,m,I,vascular,abdomen
+s0119,ct abdomen-pelvis,test,43.0,m,I,no_pathology,no_location
+s0098,ct abdomen-pelvis,train,50.0,m,I,no_pathology,no_location
+s0117,ct abdomen-pelvis,train,50.0,m,I,other,abdomen
+s0072,ct abdomen-pelvis,train,67.0,m,C,tumor,abdomen
+s0040,ct thorax-abdomen-pelvis,test,52.0,m,C,tumor,thorax
+s0109,ct abdomen-pelvis,train,76.0,m,C,other,abdomen
+s0107,ct abdomen-pelvis,train,87.0,f,I,inflammation,abdomen
+s0106,ct abdomen-pelvis,train,55.0,m,I,inflammation,thorax
+s0012,ct abdomen-pelvis,train,53.0,f,C,other,abdomen
+s0104,ct pelvis,train,84.0,f,I,trauma,pelvis
+s0103,ct polytrauma head,train,41.0,m,I,no_pathology,no_location
+s0091,ct angiography neck-thx-abd-pelvis-leg,train,83.0,m,I,vascular,abdomen
+s0088,ct abdomen-pelvis,train,72.0,m,I,no_pathology,no_location
+s0096,ct angiography abdomen-pelvis-leg,train,80.0,m,I,vascular,abdomen
+s0077,ct abdomen-pelvis,train,77.0,m,I,tumor,abdomen
+s0092,ct abdomen-pelvis,train,24.0,m,I,other,abdomen
+s0016,ct angiography abdomen-pelvis-leg,train,83.0,m,I,vascular,abdomen
+s0086,ct neck-thorax-abdomen-pelvis,train,71.0,m,C,no_pathology,no_location
+s0011,ct neck-thorax-abdomen-pelvis,train,49.0,m,C,tumor,"thorax,abdomen,pelvis"
+s0090,ct abdomen-pelvis,train,72.0,f,C,no_pathology,no_location
+s0075,ct abdomen-pelvis,train,58.0,m,I,other,abdomen
+s0082,ct abdomen-pelvis,train,39.0,f,C,no_pathology,no_location
+s0071,ct thorax-abdomen-pelvis,train,81.0,f,C,tumor,thorax
+s0073,ct abdomen-pelvis,train,71.0,m,I,other,abdomen
+s0078,ct abdomen-pelvis,train,75.0,m,I,inflammation,abdomen
+s0074,ct pelvis,train,50.0,m,C,no_pathology,no_location
+s0065,ct angiography neck-thx-abd-pelvis-leg,train,76.0,m,I,vascular,abdomen
+s0070,ct neck-thorax-abdomen-pelvis,train,24.0,f,C,tumor,"throat,thorax"
+s0066,ct abdomen-pelvis,train,53.0,f,I,other,pelvis
+s0045,ct angiography abdomen-pelvis-leg,val,70.0,m,I,vascular,abdomen
+s0062,ct pelvis,train,63.0,m,C,no_pathology,no_location
+s0058,ct thorax-abdomen-pelvis,train,69.0,f,I,tumor,abdomen
+s0059,ct thorax-abdomen-pelvis,train,48.0,f,I,inflammation,abdomen
+s0052,ct abdomen-pelvis,train,78.0,m,I,other,pelvis
+s0054,ct abdomen-pelvis,train,74.0,f,I,inflammation,abdomen
+s0053,ct abdomen-pelvis,train,30.0,m,I,inflammation,abdomen
+s0048,ct abdomen-pelvis,train,69.0,m,I,tumor,abdomen
+s0028,ct neck-thorax-abdomen-pelvis,train,59.0,f,C,no_pathology,no_location
+s0039,ct abdomen-pelvis,train,48.0,f,I,inflammation,abdomen
+s0031,ct angiography abdomen-pelvis-leg,train,82.0,m,C,vascular,abdomen
+s0034,ct angiography pelvis-leg,train,60.0,f,I,bleeding,abdomen
+s0030,ct abdomen-pelvis,train,76.0,f,I,no_pathology,no_location
+s0010,ct abdomen-pelvis,train,63.0,m,I,no_pathology,no_location
+s0022,ct abdomen-pelvis,train,50.0,m,I,other,abdomen
+s0015,ct abdomen-pelvis,train,56.0,m,I,bleeding,abdomen
+s0014,ct abdomen-pelvis,train,70.0,f,I,tumor,abdomen
+s0013,ct abdomen-pelvis,test,63.0,m,I,inflammation,abdomen
+s0006,ct abdomen-pelvis,train,46.0,m,I,other,abdomen
+s0004,ct thorax-abdomen-pelvis,train,71.0,f,C,no_pathology,no_location
+s0001,ct abdomen-pelvis,train,58.0,f,I,no_pathology,no_location
+s0000,ct pelvis,val,29.0,f,I,inflammation,pelvis
+s0625,ct neck-thorax-abdomen-pelvis,val,54.0,m,I,tumor,"thorax,abdomen,pelvis"
+s0751,ct angiography neck-thx-abd-pelvis-leg,train,66.0,m,I,vascular,"thorax,abdomen"
+s0657,ct neck-thorax-abdomen-pelvis,train,53.0,m,I,no_pathology,no_location
+s1405,ct angiography abdomen-pelvis,train,76.0,m,I,vascular,abdomen
+s0670,ct neck-thorax-abdomen-pelvis,train,84.0,f,I,tumor,"thorax,abdomen"
+s0720,ct neck-thorax-abdomen-pelvis,train,30.0,m,J,tumor,throat
+s0697,ct angiography neck-thx-abd-pelvis-leg,train,58.0,m,I,vascular,thorax
+s0703,ct thorax-abdomen-pelvis,train,79.0,m,I,tumor,"thorax,abdomen"
+s0726,ct thorax-abdomen-pelvis,train,69.0,f,I,tumor,"thorax,abdomen,bones"
+s0687,ct thorax-abdomen-pelvis,test,60.0,f,I,tumor,"thorax,abdomen"
+s0731,ct thorax-abdomen-pelvis,train,57.0,f,C,no_pathology,no_location
+s0739,ct thorax-abdomen-pelvis,train,37.0,m,I,no_pathology,no_location
+s0740,ct angiography neck-thx-abd-pelvis-leg,train,70.0,f,G,unclear,unclear
+s0736,ct angiography neck-thx-abd-pelvis-leg,train,70.0,m,I,inflammation,abdomen
+s0733,ct neck-thorax-abdomen-pelvis,train,66.0,m,I,tumor,thorax
+s0730,ct pelvis,train,80.0,f,I,no_pathology,no_location
+s0723,ct neck-thorax-abdomen-pelvis,train,71.0,f,C,tumor,"thorax,abdomen,pelvis"
+s0727,ct polytrauma,train,88.0,f,I,trauma,extremity
+s0724,ct angiography pelvis-leg,train,74.0,m,I,inflammation,extremity
+s0708,ct neck-thorax-abdomen-pelvis,train,36.0,f,I,tumor,abdomen
+s0680,ct thorax-abdomen-pelvis,train,73.0,m,C,no_pathology,no_location
+s0712,ct pelvis,train,81.0,f,I,trauma,pelvis
+s0649,ct thorax-abdomen-pelvis,train,63.0,f,I,tumor,thorax
+s0707,ct angiography neck-thx-abd-pelvis-leg,train,74.0,m,B,unclear,unclear
+s0692,ct angiography neck-thx-abd-pelvis-leg,train,66.0,m,I,vascular,"thorax,abdomen"
+s0691,ct neck-thorax-abdomen-pelvis,train,71.0,m,I,vascular,abdomen
+s0690,ct polytrauma,train,94.0,f,I,no_pathology,no_location
+s0686,ct neck-thorax-abdomen-pelvis,train,74.0,m,I,no_pathology,no_location
+s0685,ct angiography pelvis-leg,train,47.0,m,I,no_pathology,no_location
+s0667,ct neck-thorax-abdomen-pelvis,test,65.0,m,C,no_pathology,no_location
+s0669,ct angiography neck-thx-abd-pelvis-leg,train,82.0,m,I,vascular,abdomen
+s0675,ct angiography neck-thx-abd-pelvis-leg,val,68.0,f,I,no_pathology,no_location
+s0662,ct neck-thorax-abdomen-pelvis,train,51.0,m,I,no_pathology,no_location
+s0673,ct pelvis,test,54.0,m,I,tumor,pelvis
+s0663,ct neck-thorax-abdomen-pelvis,train,61.0,f,I,tumor,thorax
+s0661,ct neck-thorax-abdomen-pelvis,train,90.0,f,C,tumor,"thorax,throat"
+s0377,ct angiography neck-thx-abd-pelvis-leg,train,52.0,m,I,vascular,thorax
+s0420,ct angiography neck-thx-abd-pelvis-leg,val,63.0,m,I,vascular,thorax
+s0648,ct neck-thorax-abdomen-pelvis,train,72.0,f,C,tumor,"thorax,bones"
+s0644,ct neck-thorax-abdomen-pelvis,train,66.0,f,C,tumor,"thorax,abdomen,pelvis"
+s0656,ct thorax-abdomen-pelvis,train,71.0,f,C,tumor,"abdomen,pelvis"
+s0652,ct angiography neck-thx-abd-pelvis-leg,train,58.0,m,I,vascular,thorax
+s0637,ct thorax-abdomen-pelvis,train,72.0,m,I,inflammation,thorax
+s0617,ct thorax-abdomen-pelvis,train,57.0,m,I,no_pathology,no_location
+s0639,ct neck-thorax-abdomen-pelvis,train,58.0,f,C,tumor,pelvis
+s0635,ct thorax-abdomen-pelvis,train,76.0,f,I,tumor,abdomen
+s0650,ct thorax-abdomen-pelvis,val,65.0,m,I,inflammation,thorax
+s0709,ct thorax-abdomen-pelvis,train,70.0,m,E,unclear,unclear
+s0646,ct pelvis,train,81.0,m,I,trauma,extremity
+s0602,ct thorax-abdomen-pelvis,train,44.0,f,C,tumor,"thorax,abdomen,bones"
+s0638,ct polytrauma,train,49.0,f,E,unclear,unclear
+s0619,ct thorax-abdomen-pelvis,train,79.0,f,C,tumor,abdomen
+s0629,ct thorax-abdomen-pelvis,train,66.0,m,I,tumor,"thorax,abdomen,bones"
+s0623,ct neck-thorax-abdomen-pelvis,train,89.0,m,I,tumor,abdomen
+s0426,ct pelvis,train,42.0,m,I,no_pathology,no_location
+s0621,ct thorax-abdomen-pelvis,train,85.0,m,C,no_pathology,no_location
+s0618,ct thorax-abdomen-pelvis,val,66.0,f,C,tumor,thorax
+s0627,ct angiography neck-thx-abd-pelvis-leg,train,41.0,f,I,vascular,thorax
+s0613,ct neck-thorax-abdomen-pelvis,train,67.0,m,C,tumor,thorax
+s0628,ct thorax-abdomen-pelvis,train,61.0,f,I,tumor,thorax
+s0612,ct neck-thorax-abdomen-pelvis,train,73.0,f,C,tumor,"bones,pelvis"
+s0589,ct thorax-abdomen-pelvis,train,58.0,f,C,tumor,abdomen
+s0616,ct polytrauma,train,56.0,m,I,trauma,thorax
+s0614,ct pelvis,val,60.0,m,I,trauma,pelvis
+s0611,ct pelvis,train,62.0,m,I,no_pathology,no_location
+s0608,ct angiography neck-thx-abd-pelvis-leg,train,78.0,m,I,no_pathology,no_location
+s0587,ct neck-thorax-abdomen-pelvis,train,83.0,f,C,tumor,"abdomen,pelvis"
+s0605,ct angiography neck-thx-abd-pelvis-leg,train,54.0,m,I,vascular,thorax
+s0601,ct pelvis,train,54.0,m,B,unclear,unclear
+s0571,ct thorax-abdomen-pelvis,train,55.0,f,I,no_pathology,no_location
+s0595,ct angiography neck-thx-abd-pelvis-leg,train,79.0,f,I,vascular,"thorax,abdomen"
+s0577,ct thorax-abdomen-pelvis,train,42.0,m,I,no_pathology,no_location
+s0593,ct neck-thorax-abdomen-pelvis,train,55.0,f,I,tumor,"abdomen,bones"
+s0574,ct neck-thorax-abdomen-pelvis,train,51.0,m,I,no_pathology,no_location
+s0592,ct polytrauma,train,86.0,f,I,trauma,thorax
+s0591,ct polytrauma,train,74.0,m,I,trauma,thorax
+s0588,ct polytrauma,train,44.0,m,E,unclear,unclear
+s0578,ct thorax-abdomen-pelvis,train,67.0,f,I,no_pathology,no_location
+s0573,ct pelvis,train,88.0,f,I,trauma,pelvis
+s0564,ct pelvis,train,64.0,f,I,trauma,pelvis
+s0600,ct thorax-abdomen-pelvis,train,65.0,m,B,unclear,unclear
+s0603,ct angiography pelvis-leg,train,75.0,f,E,unclear,unclear
+s0561,ct neck-thorax-abdomen-pelvis,test,76.0,m,C,tumor,thorax
+s0556,ct polytrauma,train,51.0,m,I,trauma,throat
+s0498,ct thorax-abdomen-pelvis,train,65.0,m,I,vascular,"abdomen,pelvis"
+s0581,ct pelvis,train,72.0,f,E,unclear,unclear
+s0550,ct neck-thorax-abdomen-pelvis,train,62.0,m,C,tumor,abdomen
+s0543,ct thorax-abdomen-pelvis,test,54.0,f,I,tumor,pelvis
+s0549,ct thorax-abdomen-pelvis,train,69.0,m,C,tumor,"thorax,bones,pelvis"
+s0476,ct neck-thorax-abdomen-pelvis,train,61.0,m,I,no_pathology,no_location
+s0546,ct thorax-abdomen-pelvis,val,64.0,m,C,no_pathology,no_location
+s0519,ct thorax-abdomen-pelvis,train,64.0,m,I,tumor,thorax
+s0536,ct neck-thorax-abdomen-pelvis,train,65.0,m,I,tumor,"throat,thorax,abdomen"
+s0516,ct thorax-abdomen-pelvis,train,88.0,m,I,other,thorax
+s0446,ct thorax-abdomen-pelvis,train,34.0,m,I,tumor,abdomen
+s0548,ct neck-thorax-abdomen-pelvis,train,65.0,m,B,unclear,unclear
+s0456,ct neck-thorax-abdomen-pelvis,train,69.0,f,C,tumor,"throat,thorax,abdomen,pelvis"
+s0510,ct neck-thorax-abdomen-pelvis,train,63.0,f,C,tumor,extremity
+s0487,ct thorax-abdomen-pelvis,train,43.0,f,A,tumor,"thorax,abdomen,bones"
+s1385,ct angiography abdomen-pelvis,train,69.0,f,I,no_pathology,no_location
+s1355,ct angiography abdomen-pelvis,test,62.0,f,I,no_pathology,no_location
+s0507,ct neck-thorax-abdomen-pelvis,train,69.0,m,I,no_pathology,no_location
+s0511,ct polytrauma,train,40.0,m,I,trauma,thorax
+s0506,ct pelvis,val,58.0,m,I,trauma,pelvis
+s0483,ct thorax-abdomen-pelvis,train,51.0,f,I,other,thorax
+s0484,ct thorax-abdomen-pelvis,train,64.0,m,I,tumor,"abdomen,pelvis"
+s0440,ct thorax-abdomen-pelvis,test,55.0,f,I,no_pathology,no_location
+s0436,ct thorax-abdomen-pelvis,train,57.0,f,I,unclear,unclear
+s0477,ct neck-thorax-abdomen-pelvis,train,68.0,f,I,tumor,abdomen
+s0475,ct pelvis,train,49.0,f,I,trauma,extremity
+s0472,ct thorax-abdomen-pelvis,train,64.0,f,C,no_pathology,no_location
+s0467,ct angiography neck-thx-abd-pelvis-leg,train,50.0,m,I,vascular,thorax
+s0461,ct neck-thorax-abdomen-pelvis,train,58.0,m,C,no_pathology,no_location
+s0350,ct thorax-abdomen-pelvis,train,88.0,f,C,no_pathology,no_location
+s1403,ct angiography abdomen-pelvis,train,60.0,m,I,vascular,abdomen
+s0454,ct pelvis,train,83.0,f,I,trauma,extremity
+s0447,ct thorax-abdomen-pelvis,train,76.0,f,I,no_pathology,no_location
+s0443,ct pelvis,train,35.0,m,I,no_pathology,no_location
+s0442,ct pelvis,train,74.0,m,I,no_pathology,no_location
+s0369,ct neck-thorax-abdomen-pelvis,train,70.0,m,I,tumor,"thorax,abdomen,pelvis"
+s0423,ct neck-thorax-abdomen-pelvis,test,65.0,m,C,trauma,thorax
+s0500,ct neck-thorax-abdomen-pelvis,train,49.0,m,B,unclear,unclear
+s0429,ct thorax-abdomen-pelvis,train,48.0,f,I,tumor,abdomen
+s0418,ct pelvis,train,57.0,f,I,no_pathology,no_location
+s0421,ct thorax-abdomen-pelvis,train,63.0,m,I,inflammation,abdomen
+s0419,ct pelvis,train,60.0,m,H,unclear,unclear
+s0408,ct neck-thorax-abdomen-pelvis,train,88.0,m,C,tumor,bones
+s0412,ct polytrauma,train,72.0,m,I,no_pathology,no_location
+s0431,ct angiography neck-thx-abd-pelvis-leg,train,71.0,m,B,unclear,unclear
+s0402,ct thorax-abdomen-pelvis,train,74.0,f,I,tumor,abdomen
+s0383,ct thorax-abdomen-pelvis,train,80.0,f,C,tumor,"thorax,abdomen"
+s0399,ct pelvis,train,49.0,f,I,trauma,pelvis
+s0393,ct angiography neck-thx-abd-pelvis-leg,train,86.0,m,I,no_pathology,no_location
+s0389,ct angiography neck-thx-abd-pelvis-leg,train,71.0,f,I,other,abdomen
+s0502,ct thorax-abdomen-pelvis,train,70.0,m,E,unclear,unclear
+s0381,ct pelvis,train,78.0,f,I,no_pathology,no_location
+s0362,ct neck-thorax-abdomen-pelvis,train,82.0,m,I,tumor,bones
+s0375,ct thorax-abdomen-pelvis,train,46.0,m,I,inflammation,abdomen
+s0376,ct angiography neck-thx-abd-pelvis-leg,train,88.0,m,I,no_pathology,no_location
+s0370,ct thorax-abdomen-pelvis,train,60.0,m,A,tumor,thorax
+s0699,ct neck-thorax-abdomen-pelvis,train,80.0,f,E,unclear,unclear
+s0551,ct neck-thorax-abdomen-pelvis,train,82.0,f,E,unclear,unclear
+s0367,ct angiography neck-thx-abd-pelvis-leg,train,46.0,m,I,no_pathology,no_location
+s0361,ct angiography pelvis-leg,train,81.0,m,I,bleeding,extremity
+s0371,ct thorax-abdomen-pelvis,train,52.0,f,E,unclear,unclear
+s0358,ct pelvis,train,90.0,f,I,trauma,abdomen
+s0347,ct angiography neck-thx-abd-pelvis-leg,train,72.0,f,I,no_pathology,no_location
+s0344,ct thorax-abdomen-pelvis,train,57.0,m,I,inflammation,abdomen
+s0332,ct thorax-abdomen-pelvis,train,68.0,m,I,vascular,abdomen
+s0336,ct angiography neck-thx-abd-pelvis-leg,train,57.0,f,I,no_pathology,no_location
+s0334,ct neck-thorax-abdomen-pelvis,train,48.0,m,E,unclear,unclear
+s0385,ct pelvis,train,64.0,f,E,unclear,unclear
+s1411,ct thorax-abdomen-pelvis,test,63.0,m,I,,
+s0468,ct angiography pelvis-leg,test,76.0,m,E,unclear,unclear
+s1412,ct polytrauma,test,43.0,m,I,,
+s1413,ct neck-thorax-abdomen-pelvis,test,32.0,m,I,,
+s1370,ct angiography thorax-abdomen-pelvis,train,78.0,m,I,no_pathology,no_location
+s1077,ct angiography neck-thx-abd-pelvis-leg,train,81.0,f,I,vascular,thorax
+s1414,ct abdomen-pelvis,test,43.0,f,I,,
+s0038,ct neck-thorax-abdomen-pelvis,test,52.0,f,B,unclear,unclear
+s1334,ct angiography neck-thx-abd-pelvis-leg,train,79.0,m,I,vascular,thorax
+s1415,ct abdomen-pelvis,test,68.0,f,I,,
+s1344,ct angiography neck-thx-abd-pelvis-leg,train,67.0,f,I,vascular,thorax
+s1142,ct angiography neck-thx-abd-pelvis-leg,train,69.0,f,I,vascular,thorax
+s1374,ct angiography abdomen-pelvis,train,75.0,m,I,vascular,abdomen
+s1208,ct angiography neck-thx-abd-pelvis-leg,train,67.0,m,I,vascular,thorax
+s1364,ct angiography thorax-abdomen-pelvis,train,74.0,m,I,vascular,abdomen
+s1362,ct angiography thorax-abdomen-pelvis,train,88.0,m,I,vascular,thorax
+s1361,ct angiography thorax-abdomen-pelvis,train,81.0,m,I,vascular,thorax
+s1182,ct neck-thorax-abdomen-pelvis,train,81.0,f,I,no_pathology,no_location
+s1348,ct thorax-abdomen-pelvis,train,69.0,m,I,other,thorax
+s1287,ct neck-thorax-abdomen-pelvis,val,77.0,m,J,tumor,thorax
+s1400,ct angiography thorax-abdomen-pelvis,train,66.0,m,I,vascular,thorax
+s1336,ct neck-thorax-abdomen-pelvis,train,79.0,m,J,no_pathology,no_location
+s1267,ct thorax-abdomen-pelvis,train,59.0,m,I,no_pathology,no_location
+s1275,ct thorax-abdomen-pelvis,train,64.0,m,A,no_pathology,no_location
+s1233,ct thorax-abdomen-pelvis,val,88.0,f,I,no_pathology,no_location
+s1397,ct whole body,train,74.0,m,I,tumor,bones
+s1276,ct neck-thorax-abdomen-pelvis,test,50.0,f,I,tumor,thorax
+s1354,ct polytrauma,train,31.0,m,I,trauma,thorax
+s1349,ct angiography neck-thx-abd-pelvis-leg,train,66.0,m,I,no_pathology,no_location
+s1350,ct polytrauma,train,66.0,f,I,trauma,"thorax,abdomen"
+s1340,ct thorax-abdomen-pelvis,train,82.0,m,A,no_pathology,no_location
+s1247,ct neck-thorax-abdomen-pelvis,train,27.0,f,A,tumor,thorax
+s1365,ct angiography thorax-abdomen-pelvis,train,71.0,f,I,vascular,"thorax,abdomen"
+s1308,ct neck-thorax-abdomen-pelvis,train,54.0,m,A,no_pathology,no_location
+s1388,ct whole body,train,68.0,f,I,other,throat
+s1318,ct neck-thorax-abdomen-pelvis,train,52.0,m,A,tumor,"throat,bones"
+s1321,ct polytrauma,train,50.0,m,I,trauma,thorax
+s1314,ct polytrauma,train,62.0,f,I,no_pathology,no_location
+s1307,ct thorax-abdomen-pelvis,train,52.0,m,I,inflammation,abdomen
+s1292,ct angiography neck-thx-abd-pelvis-leg,train,57.0,m,I,vascular,thorax
+s1304,ct polytrauma,train,67.0,m,I,no_pathology,no_location
+s1197,ct thorax-abdomen-pelvis,val,85.0,f,I,tumor,pelvis
+s1301,ct pelvis,train,77.0,m,I,inflammation,extremity
+s1298,ct thorax-abdomen-pelvis,train,78.0,m,I,other,thorax
+s1297,ct neck-thorax-abdomen-pelvis,train,84.0,m,I,no_pathology,no_location
+s1268,ct thorax-abdomen-pelvis,train,79.0,m,A,tumor,thorax
+s1155,ct thorax-abdomen-pelvis,train,66.0,f,A,no_pathology,no_location
+s1283,ct neck-thorax-abdomen-pelvis,train,75.0,f,I,tumor,pelvis
+s1261,ct thorax-abdomen-pelvis,train,78.0,f,A,tumor,"abdomen,pelvis"
+s1273,ct thorax-abdomen-pelvis,train,56.0,m,I,no_pathology,no_location
+s1085,ct neck-thorax-abdomen-pelvis,train,76.0,m,I,tumor,"thorax,throat,abdomen"
+s1255,ct neck-thorax-abdomen-pelvis,train,74.0,m,A,no_pathology,no_location
+s1222,ct neck-thorax-abdomen-pelvis,train,64.0,m,I,tumor,bones
+s1395,ct angiography thorax-abdomen-pelvis,train,70.0,m,J,vascular,"abdomen,pelvis"
+s1256,ct pelvis,train,59.0,m,I,no_pathology,no_location
+s1252,ct angiography pelvis-leg,train,52.0,f,I,no_pathology,no_location
+s1251,ct angiography pelvis-leg,train,75.0,m,I,bleeding,extremity
+s1242,ct neck-thorax-abdomen-pelvis,train,56.0,m,A,no_pathology,no_location
+s1249,ct polytrauma,test,94.0,f,I,bleeding,pelvis
+s1012,ct thorax-abdomen-pelvis,train,46.0,m,I,no_pathology,no_location
+s1218,ct neck-thorax-abdomen-pelvis,train,31.0,f,A,no_pathology,no_location
+s1228,ct thorax-abdomen-pelvis,train,62.0,f,A,no_pathology,no_location
+s1375,ct angiography thorax-abdomen-pelvis,train,75.0,m,I,vascular,thorax
+s1386,ct angiography thorax-abdomen-pelvis,test,87.0,m,I,vascular,abdomen
+s1238,ct thorax-abdomen-pelvis,val,64.0,m,I,inflammation,thorax
+s1223,ct thorax-abdomen-pelvis,val,54.0,f,I,tumor,"abdomen,pelvis"
+s1234,ct angiography pelvis-leg,train,57.0,f,I,trauma,extremity
+s1224,ct thorax-abdomen-pelvis,train,72.0,m,I,no_pathology,no_location
+s1226,ct angiography neck-thx-abd-pelvis-leg,train,74.0,f,I,vascular,"abdomen,pelvis"
+s0858,ct angiography neck-thx-abd-pelvis-leg,train,77.0,m,I,vascular,thorax
+s1146,ct thorax-abdomen-pelvis,train,79.0,f,A,no_pathology,no_location
+s1094,ct angiography neck-thx-abd-pelvis-leg,test,68.0,f,I,no_pathology,no_location
+s1215,ct polytrauma,train,57.0,m,I,trauma,extremity
+s1209,ct thorax-abdomen-pelvis,train,74.0,m,I,other,abdomen
+s1210,ct thorax-abdomen-pelvis,train,80.0,m,I,inflammation,pelvis
+s1404,ct angiography thorax-abdomen-pelvis,train,63.0,f,I,no_pathology,no_location
+s1207,ct thorax-abdomen-pelvis,train,83.0,f,I,inflammation,thorax
+s1206,ct polytrauma,train,62.0,m,I,inflammation,thorax
+s1145,ct neck-thorax-abdomen-pelvis,train,57.0,f,A,tumor,"thorax,abdomen,bones"
+s1127,ct neck-thorax-abdomen-pelvis,train,69.0,f,J,tumor,thorax
+s1383,ct angiography abdomen-pelvis,train,75.0,m,I,vascular,"abdomen,pelvis"
+s1191,ct neck-thorax-abdomen-pelvis,train,66.0,m,A,tumor,throat
+s1101,ct thorax-abdomen-pelvis,train,76.0,f,A,tumor,"thorax,abdomen"
+s1168,ct neck-thorax-abdomen-pelvis,train,52.0,m,A,tumor,abdomen
+s1143,ct neck-thorax-abdomen-pelvis,train,70.0,m,A,tumor,"throat,thorax"
+s1189,ct polytrauma,train,41.0,f,E,unclear,unclear
+s1176,ct thorax-abdomen-pelvis,test,43.0,f,I,tumor,abdomen
+s1178,ct neck-thorax-abdomen-pelvis,train,57.0,f,I,inflammation,extremity
+s1174,ct thorax-abdomen-pelvis,test,61.0,m,I,no_pathology,no_location
+s1171,ct polytrauma,train,26.0,m,I,trauma,extremity
+s1161,ct polytrauma,val,52.0,m,I,trauma,abdomen
+s1159,ct polytrauma,train,47.0,f,I,no_pathology,no_location
+s1358,ct angiography abdomen-pelvis,train,69.0,f,I,no_pathology,no_location
+s0869,ct neck-thorax-abdomen-pelvis,train,75.0,m,I,no_pathology,no_location
+s1391,ct angiography abdomen-pelvis,train,65.0,m,I,bleeding,abdomen
+s1152,ct polytrauma,test,76.0,f,I,trauma,thorax
+s1151,ct angiography pelvis-leg,train,49.0,m,I,no_pathology,no_location
+s1387,ct angiography thorax-abdomen-pelvis,train,70.0,m,I,vascular,abdomen
+s1119,ct neck-thorax-abdomen-pelvis,test,50.0,m,A,tumor,thorax
+s1132,ct thorax-abdomen-pelvis,train,67.0,f,A,no_pathology,no_location
+s1038,ct neck-thorax-abdomen-pelvis,train,58.0,m,I,tumor,thorax
+s1141,ct pelvis,train,87.0,f,I,trauma,pelvis
+s1377,ct angiography thorax-abdomen-pelvis,test,71.0,m,I,vascular,"thorax,abdomen,pelvis"
+s1044,ct thorax-abdomen-pelvis,train,71.0,m,I,tumor,"thorax,bones"
+s1137,ct pelvis,train,52.0,m,I,no_pathology,no_location
+s1136,ct pelvis,train,73.0,f,I,no_pathology,no_location
+s1371,ct whole body,train,70.0,m,A,no_pathology,no_location
+s1135,ct thorax-abdomen-pelvis,train,52.0,m,I,inflammation,abdomen
+s1128,ct pelvis,train,82.0,f,I,no_pathology,no_location
+s1418,ct abdomen-pelvis,test,47.0,f,I,,
+s1086,ct neck-thorax-abdomen-pelvis,train,45.0,m,A,tumor,"thorax,abdomen"
+s1125,ct angiography pelvis-leg,train,91.0,m,I,trauma,pelvis
+s1124,ct polytrauma,train,72.0,m,I,trauma,throat
+s1123,ct polytrauma,train,48.0,m,I,trauma,thorax
+s1121,ct angiography pelvis-leg,test,30.0,f,I,no_pathology,no_location
+s1120,ct thorax-abdomen-pelvis,train,55.0,f,I,no_pathology,no_location
+s1384,ct whole body,train,65.0,f,I,tumor,bones
+s1111,ct thorax-abdomen-pelvis,train,70.0,m,I,no_pathology,no_location
+s1098,ct pelvis,train,56.0,f,A,tumor,bones
+s1090,ct thorax-abdomen-pelvis,train,80.0,m,A,tumor,"abdomen,bones"
+s1063,ct thorax-abdomen-pelvis,train,49.0,f,A,tumor,abdomen
+s1104,ct angiography pelvis-leg,train,57.0,m,I,inflammation,extremity
+s1103,ct angiography pelvis-leg,train,71.0,m,I,vascular,"abdomen,pelvis"
+s1099,ct neck-thorax-abdomen-pelvis,train,52.0,f,I,tumor,"thorax,abdomen"
+s1061,ct thorax-abdomen-pelvis,train,44.0,f,I,tumor,abdomen
+s1089,ct polytrauma,train,65.0,m,I,trauma,thorax
+s1068,ct pelvis,train,22.0,f,I,no_pathology,no_location
+s1088,ct polytrauma,train,90.0,m,I,trauma,thorax
+s1082,ct polytrauma,train,69.0,m,I,trauma,extremity
+s0796,ct neck-thorax-abdomen-pelvis,train,82.0,m,I,tumor,"thorax,bones"
+s1057,ct pelvis,test,71.0,f,A,no_pathology,no_location
+s1070,ct thorax-abdomen-pelvis,train,37.0,f,I,no_pathology,no_location
+s1069,ct thorax-abdomen-pelvis,train,71.0,m,I,no_pathology,no_location
+s1062,ct angiography neck-thx-abd-pelvis-leg,train,73.0,m,I,no_pathology,no_location
+s1368,ct angiography abdomen-pelvis,train,41.0,m,I,no_pathology,no_location
+s1050,ct pelvis,train,83.0,f,I,trauma,extremity
+s1046,ct thorax-abdomen-pelvis,val,72.0,m,I,no_pathology,no_location
+s1041,ct pelvis,train,92.0,f,I,trauma,extremity
+s1045,ct polytrauma,train,62.0,m,I,no_pathology,no_location
+s1013,ct angiography neck-thx-abd-pelvis-leg,train,80.0,m,I,no_pathology,no_location
+s1031,ct neck-thorax-abdomen-pelvis,train,69.0,m,I,tumor,abdomen
+s0939,ct thorax-abdomen-pelvis,train,73.0,m,A,tumor,"abdomen,head"
+s1029,ct polytrauma,train,71.0,m,I,trauma,"thorax,abdomen"
+s1024,ct thorax-abdomen-pelvis,val,31.0,m,I,tumor,"thorax,abdomen"
+s1026,ct angiography neck-thx-abd-pelvis-leg,train,76.0,m,I,inflammation,abdomen
+s1025,ct angiography neck-thx-abd-pelvis-leg,train,63.0,m,I,no_pathology,no_location
+s0918,ct neck-thorax-abdomen-pelvis,val,67.0,m,I,no_pathology,no_location
+s1016,ct polytrauma,train,79.0,m,I,no_pathology,no_location
+s1009,ct pelvis,train,77.0,m,I,no_pathology,no_location
+s1008,ct thorax-abdomen-pelvis,train,76.0,f,I,tumor,abdomen
+s1363,ct angiography thorax-abdomen-pelvis,train,63.0,m,I,vascular,"thorax,abdomen,pelvis"
+s1005,ct pelvis,train,57.0,m,I,tumor,bones
+s1382,ct angiography thorax-abdomen-pelvis,train,77.0,m,I,vascular,abdomen
+s1006,ct thorax-abdomen-pelvis,train,67.0,f,I,inflammation,abdomen
+s1004,ct angiography neck-thx-abd-pelvis-leg,train,76.0,m,I,vascular,"thorax,abdomen"
+s0961,ct thorax-abdomen-pelvis,train,56.0,m,A,tumor,"thorax,head"
+s0985,ct neck-thorax-abdomen-pelvis,train,73.0,f,I,tumor,"throat,thorax"
+s0994,ct neck-thorax-abdomen-pelvis,test,79.0,m,A,trauma,abdomen
+s0991,ct thorax-abdomen-pelvis,val,71.0,f,A,tumor,"thorax,abdomen"
+s0992,ct neck-thorax-abdomen-pelvis,train,54.0,f,I,tumor,thorax
+s1369,ct whole body,train,73.0,f,I,no_pathology,no_location
+s0953,ct neck-thorax-abdomen-pelvis,train,56.0,f,I,tumor,"thorax,abdomen,pelvis,bones"
+s0988,ct polytrauma,train,79.0,m,I,no_pathology,no_location
+s0950,ct thorax-abdomen-pelvis,train,79.0,f,I,tumor,"abdomen,bones"
+s0976,ct thorax-abdomen-pelvis,train,58.0,m,A,tumor,"thorax,abdomen"
+s0986,ct polytrauma,train,88.0,f,I,trauma,"thorax,abdomen,pelvis"
+s0983,ct thorax-abdomen-pelvis,train,67.0,m,I,inflammation,thorax
+s0982,ct thorax-abdomen-pelvis,train,56.0,m,I,other,abdomen
+s0951,ct pelvis,test,72.0,f,I,trauma,extremity
+s0947,ct pelvis,train,28.0,m,I,trauma,pelvis
+s0957,ct neck-thorax-abdomen-pelvis,train,50.0,f,I,tumor,pelvis
+s0981,ct pelvis,train,94.0,m,I,trauma,extremity
+s0923,ct neck-thorax-abdomen-pelvis,test,43.0,f,I,tumor,bones
+s0971,ct pelvis,train,67.0,m,I,no_pathology,no_location
+s1372,ct angiography thorax-abdomen-pelvis,train,82.0,f,J,vascular,"thorax,abdomen,bones"
+s0970,ct polytrauma,train,51.0,f,I,no_pathology,no_location
+s0965,ct thorax-abdomen-pelvis,train,64.0,f,I,other,abdomen
+s0959,ct thorax-abdomen-pelvis,train,47.0,f,I,inflammation,"thorax,abdomen"
+s0963,ct thorax-abdomen-pelvis,train,59.0,f,I,inflammation,"abdomen,pelvis"
+s1394,ct angiography abdomen-pelvis,train,57.0,m,I,vascular,pelvis
+s0945,ct thorax-abdomen-pelvis,train,68.0,f,I,tumor,abdomen
+s0944,ct pelvis,train,61.0,f,I,other,pelvis
+s0928,ct thorax-abdomen-pelvis,train,77.0,f,A,no_pathology,no_location
+s0940,ct neck-thorax-abdomen-pelvis,train,77.0,m,I,tumor,"abdomen,bones"
+s0930,ct thorax-abdomen-pelvis,train,53.0,f,A,tumor,pelvis
+s0915,ct thorax-abdomen-pelvis,train,71.0,m,I,no_pathology,no_location
+s0937,ct angiography pelvis-leg,train,79.0,m,I,trauma,extremity
+s0910,ct thorax-abdomen-pelvis,train,55.0,f,A,tumor,thorax
+s0933,ct polytrauma,test,55.0,f,I,bleeding,extremity
+s0916,ct thorax-abdomen-pelvis,train,65.0,m,A,no_pathology,no_location
+s0931,ct angiography neck-thx-abd-pelvis-leg,train,86.0,m,I,no_pathology,no_location
+s0927,ct polytrauma,train,93.0,f,I,trauma,thorax
+s0924,ct neck-thorax-abdomen-pelvis,train,63.0,m,I,no_pathology,no_location
+s0921,ct pelvis,train,51.0,m,I,other,pelvis
+s0913,ct neck-thorax-abdomen-pelvis,train,29.0,m,I,no_pathology,no_location
+s0912,ct neck-thorax-abdomen-pelvis,train,68.0,m,I,inflammation,thorax
+s0907,ct pelvis,test,73.0,m,I,trauma,extremity
+s0904,ct thorax-abdomen-pelvis,train,82.0,m,I,inflammation,abdomen
+s0903,ct polytrauma,train,87.0,m,I,no_pathology,no_location
+s0896,ct neck-thorax-abdomen-pelvis,train,21.0,f,I,tumor,"abdomen,bones"
+s0895,ct angiography neck-thx-abd-pelvis-leg,train,56.0,m,I,other,thorax
+s0899,ct thorax-abdomen-pelvis,train,74.0,m,I,inflammation,abdomen
+s0894,ct polytrauma,train,35.0,m,I,trauma,thorax
+s1367,ct angiography thorax-abdomen-pelvis,train,40.0,m,I,vascular,"thorax,abdomen"
+s0863,ct neck-thorax-abdomen-pelvis,train,61.0,f,I,no_pathology,no_location
+s0878,ct neck-thorax-abdomen-pelvis,train,66.0,m,A,tumor,"throat,thorax"
+s0884,ct thorax-abdomen-pelvis,train,56.0,m,I,inflammation,abdomen
+s0885,ct thorax-abdomen-pelvis,train,63.0,m,I,inflammation,thorax
+s1401,ct angiography abdomen-pelvis,train,46.0,f,I,no_pathology,no_location
+s0880,ct thorax-abdomen-pelvis,train,72.0,m,I,inflammation,thorax
+s0864,ct thorax-abdomen-pelvis,train,57.0,f,A,no_pathology,no_location
+s0873,ct pelvis,train,63.0,f,I,no_pathology,no_location
+s1389,ct angiography abdomen-pelvis,train,65.0,m,A,no_pathology,no_location
+s0862,ct pelvis,train,73.0,m,I,trauma,pelvis
+s0860,ct polytrauma,train,56.0,m,I,trauma,thorax
+s1380,ct whole body,train,78.0,f,I,no_pathology,no_location
+s0859,ct thorax-abdomen-pelvis,train,70.0,f,I,inflammation,thorax
+s0833,ct thorax-abdomen-pelvis,train,82.0,f,A,tumor,"thorax,abdomen"
+s0830,ct neck-thorax-abdomen-pelvis,train,84.0,m,A,inflammation,thorax
+s0844,ct neck-thorax-abdomen-pelvis,train,49.0,f,A,no_pathology,no_location
+s0835,ct neck-thorax-abdomen-pelvis,train,53.0,f,I,no_pathology,no_location
+s1390,ct angiography abdomen-pelvis,train,63.0,m,I,vascular,"abdomen,pelvis"
+s0842,ct thorax-abdomen-pelvis,train,64.0,f,I,other,abdomen
+s0836,ct thorax-abdomen-pelvis,train,62.0,f,I,no_pathology,no_location
+s0840,ct angiography neck-thx-abd-pelvis-leg,train,75.0,m,I,no_pathology,no_location
+s0831,ct angiography pelvis-leg,train,63.0,m,I,vascular,abdomen
+s0829,ct neck-thorax-abdomen-pelvis,test,59.0,f,A,tumor,"thorax,abdomen"
+s0824,ct neck-thorax-abdomen-pelvis,val,78.0,m,A,tumor,"thorax,abdomen"
+s0801,ct thorax-abdomen-pelvis,train,57.0,m,A,tumor,"thorax,abdomen"
+s0816,ct thorax-abdomen-pelvis,train,66.0,f,A,tumor,abdomen
+s0770,ct neck-thorax-abdomen-pelvis,train,77.0,m,A,tumor,thorax
+s0818,ct pelvis,train,34.0,m,I,trauma,pelvis
+s0821,ct neck-thorax-abdomen-pelvis,train,42.0,m,I,trauma,"thorax,throat"
+s1373,ct angiography abdomen-pelvis,train,80.0,m,I,tumor,abdomen
+s0785,ct thorax-abdomen-pelvis,train,56.0,f,A,no_pathology,no_location
+s0819,ct pelvis,train,81.0,f,I,trauma,pelvis
+s0815,ct pelvis,train,88.0,m,I,inflammation,pelvis
+s0812,ct polytrauma,train,60.0,m,I,trauma,throat
+s0807,ct thorax-abdomen-pelvis,train,65.0,m,A,tumor,"thorax,abdomen"
+s0802,ct neck-thorax-abdomen-pelvis,test,64.0,m,A,tumor,"throat,thorax"
+s0798,ct neck-thorax-abdomen-pelvis,train,56.0,f,A,no_pathology,no_location
+s0765,ct thorax-abdomen-pelvis,train,54.0,f,I,no_pathology,no_location
+s0808,ct neck-thorax-abdomen-pelvis,val,80.0,f,A,vascular,head
+s0795,ct thorax-abdomen-pelvis,train,56.0,f,A,no_pathology,no_location
+s0806,ct neck-thorax-abdomen-pelvis,train,72.0,m,I,no_pathology,no_location
+s0804,ct angiography neck-thx-abd-pelvis-leg,train,44.0,f,I,no_pathology,no_location
+s0797,ct neck-thorax-abdomen-pelvis,train,63.0,f,I,tumor,abdomen
+s0794,ct thorax-abdomen-pelvis,val,60.0,f,I,inflammation,thorax
+s0778,ct thorax-abdomen-pelvis,train,57.0,m,A,tumor,"thorax,abdomen"
+s1379,ct angiography thorax-abdomen-pelvis,train,65.0,m,I,vascular,abdomen
+s0791,ct angiography neck-thx-abd-pelvis-leg,train,74.0,f,I,vascular,thorax
+s0790,ct polytrauma,train,40.0,f,I,no_pathology,no_location
+s0775,ct neck-thorax-abdomen-pelvis,train,73.0,m,A,tumor,pelvis
+s0786,ct polytrauma,train,29.0,f,I,no_pathology,no_location
+s1420,ct thorax-abdomen-pelvis,test,90.0,m,I,,
+s0777,ct polytrauma,train,74.0,m,I,no_pathology,no_location
+s0776,ct pelvis,train,85.0,f,I,trauma,abdomen
+s0774,ct angiography pelvis-leg,train,75.0,f,I,bleeding,abdomen
+s0772,ct pelvis,train,66.0,m,I,trauma,extremity
+s0764,ct neck-thorax-abdomen-pelvis,train,75.0,f,A,no_pathology,no_location
+s0763,ct polytrauma,train,58.0,m,I,trauma,thorax
+s0759,ct neck-thorax-abdomen-pelvis,train,80.0,f,A,tumor,thorax
+s0762,ct thorax-abdomen-pelvis,train,65.0,m,I,vascular,thorax
+s0760,ct thorax-abdomen-pelvis,val,42.0,f,I,no_pathology,no_location
+s0754,ct polytrauma,train,60.0,m,I,trauma,thorax
+s1421,ct abdomen-pelvis,test,69.0,m,I,,
+s1422,ct thorax-abdomen-pelvis,test,64.0,f,I,,
+s1423,ct abdomen-pelvis,test,27.0,f,I,,
+s1424,ct thorax-abdomen-pelvis,test,98.0,f,D,,
