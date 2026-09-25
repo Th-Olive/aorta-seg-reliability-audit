@@ -3,6 +3,8 @@
 Code for **"Complementary Reliability Axes for Aortic CTA Segmentation: An Empirical
 Audit"** (UNSURE workshop, MICCAI 2026).
 
+**Paper:** [papers.miccai.org/miccai-2026-sat/paper/UNSURE2026_065.pdf](https://papers.miccai.org/miccai-2026-sat/paper/UNSURE2026_065.pdf)
+
 The paper is an empirical audit, not a new method. It asks whether three post-hoc
 reliability signals that operate on different objects detect the same segmentation
 failures or expose distinct ones, across 962 cases from four datasets. A 23-class
@@ -14,8 +16,9 @@ Three AVT cases: prediction surface (red) over the ground-truth ghost (grey), wi
 the kimimaro longest-path centerline in yellow. R11 is correct and both signals stay
 quiet. K20 has a spurious duplicated abdominal branch plus a gap higher in the
 descending aorta; its path stays full-length at 495 mm so the centerline rule is
-quiet, but the odd shape raises the Mahalanobis distance. R15 collapses to a
-fragment inside an intact aorta, so its path falls to 49 mm and flags, while the
+quiet, but the Mahalanobis distance flags it. That signal reads encoder features of
+the input scan, and this scan is unlike the training data: 5 mm slices against roughly 1 mm in AortaSeg24.
+R15 collapses to a fragment inside an intact aorta, so its path falls to 49 mm and flags, while the
 Mahalanobis distance stays near the AVT median and is quiet. Each failure is caught
 by a different signal, and that disagreement is the point of the audit.
 
