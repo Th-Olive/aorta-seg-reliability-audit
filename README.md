@@ -84,13 +84,15 @@ Trained on a single RTX A5000 (24 GB).
 ## Citation
 
 ```bibtex
-@inproceedings{olive2026complementary,
-  author    = {Olive, Thomas},
-  title     = {Complementary Reliability Axes for Aortic {CTA} Segmentation:
-               An Empirical Audit},
-  booktitle = {Uncertainty for Safe Utilization of Machine Learning in Medical
-               Imaging (UNSURE), MICCAI Workshop},
-  year      = {2026}
+@InProceedings{OliTho_Complementary_MICCAISAT2026,
+        author = { Olive, Thomas},
+        title = { { Complementary Reliability Axes for Aortic CTA Segmentation: An Empirical Audit } },
+        booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026 Workshops and Challenges},
+        year = {2026},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 17260},
+        month = {pending},
+        pages = {pending}
 }
 ```
 
